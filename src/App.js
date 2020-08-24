@@ -3,7 +3,7 @@ import api from './services/api';
 
 
 
-import './App.css';
+import './styles.css';
 
 import Header from './components/Header';
 
